@@ -1,0 +1,92 @@
+{
+  "suit.jpg": {
+    "id": "suit",
+    "w": 960,
+    "h": 1280,
+    "color": "rgb(104,100,74)"
+  },
+  "cliff-walk.jpg": {
+    "id": "cliff-walk",
+    "w": 1200,
+    "h": 1600,
+    "color": "rgb(119,122,112)"
+  },
+  "crochet-shirt.jpg": {
+    "id": "crochet-shirt",
+    "w": 1600,
+    "h": 1600,
+    "color": "rgb(118,126,121)"
+  },
+  "embroidered-jacket.jpg": {
+    "id": "embroidered-jacket",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(126,121,130)"
+  },
+  "patchwork.jpg": {
+    "id": "patchwork",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(144,147,143)"
+  },
+  "burgundy-overshirt.jpg": {
+    "id": "burgundy-overshirt",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(133,127,116)"
+  },
+  "brown-set.jpg": {
+    "id": "brown-set",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(128,126,119)"
+  },
+  "layered-jumper.jpg": {
+    "id": "layered-jumper",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(145,129,114)"
+  },
+  "track-stripe.jpg": {
+    "id": "track-stripe",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(125,134,138)"
+  },
+  "green-cardigan.jpg": {
+    "id": "green-cardigan",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(77,81,66)"
+  },
+  "black-patch.jpg": {
+    "id": "black-patch",
+    "w": 900,
+    "h": 1600,
+    "color": "rgb(106,100,92)"
+  },
+  "graphic-tee.jpg": {
+    "id": "graphic-tee",
+    "w": 722,
+    "h": 1280,
+    "color": "rgb(129,116,89)"
+  },
+  "summer-knit.jpg": {
+    "id": "summer-knit",
+    "w": 720,
+    "h": 1280,
+    "color": "rgb(168,163,154)"
+  },
+  "beach-evening.jpg": {
+    "id": "beach-evening",
+    "w": 900,
+    "h": 1600,
+    "color": "rgb(121,123,125)"
+  },
+  "marina-sunset.jpg": {
+    "id": "marina-sunset",
+    "w": 720,
+    "h": 1278,
+    "color": "rgb(69,75,73)"
+  }
+}

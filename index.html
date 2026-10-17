@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en-GB" class="is-loading">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Dheeraj Kodwani · The Atelier</title>
+    <meta name="description" content="Style is how I say hello. Step inside my atelier." />
+    <meta name="theme-color" content="#120d0a" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="canonical" href="https://dheerajk21012004.github.io/retail-portfolio/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="The Atelier" />
+    <meta property="og:url" content="https://dheerajk21012004.github.io/retail-portfolio/" />
+    <meta property="og:title" content="Dheeraj Kodwani · The Atelier" />
+    <meta property="og:description" content="Style is how I say hello. Step inside my atelier." />
+    <meta property="og:image" content="https://dheerajk21012004.github.io/retail-portfolio/og.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Dheeraj Kodwani in a chocolate double breasted suit beside the words Style is how I say hello" />
+    <meta property="og:locale" content="en_GB" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="module" src="/src/main.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#rail">Skip to the looks</a>
+    <a class="mode-toggle" id="mode-toggle" href="?motion=off">Calm version</a>
+
+    <div class="loader" id="loader" role="status">
+      <svg class="loader-art" viewBox="0 0 250 140" aria-hidden="true">
+        <defs>
+          <mask id="stitch-reveal" maskUnits="userSpaceOnUse" x="0" y="0" width="250" height="140">
+            <path class="reveal" d="M62 24V116C148 120 148 20 62 24" />
+            <path class="reveal" d="M164 24V116" />
+            <path class="reveal" d="M210 24L166 70L212 116" />
+          </mask>
+        </defs>
+        <g class="chalk">
+          <path d="M62 24V116C148 120 148 20 62 24" />
+          <path d="M164 24V116" />
+          <path d="M210 24L166 70L212 116" />
+        </g>
+        <g class="stitches" mask="url(#stitch-reveal)">
+          <path d="M62 24V116C148 120 148 20 62 24" />
+          <path d="M164 24V116" />
+          <path d="M210 24L166 70L212 116" />
+        </g>
+        <g class="needle" transform="translate(-60 -60)">
+          <path class="thread" d="M-30 0C-44 0 -50 10 -66 14" />
+          <path class="needle-body" d="M0 0L-34 -1.7Q-37.5 0 -34 1.7Z" />
+          <ellipse cx="-30.5" cy="0" rx="2.2" ry="0.6" fill="#120d0a" />
+        </g>
+      </svg>
+      <p class="sr-only">Loading the atelier</p>
+    </div>
+
+    <canvas class="stage" id="stage" aria-hidden="true"></canvas>
+    <div class="vignette" aria-hidden="true"></div>
+
+    <header class="hero" id="top">
+      <div class="hero-cover" id="hero-cover" aria-hidden="true"></div>
+      <div class="hero-inner">
+        <p class="eyebrow">The Atelier</p>
+        <h1 class="name">Dheeraj <em>Kodwani</em></h1>
+        <p class="line">Style is how I say hello.</p>
+        <a class="step" href="#rail">Step inside</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="rail" id="rail" aria-labelledby="rail-title">
+        <div class="rail-sticky">
+          <h2 class="rail-title" id="rail-title">The Rail</h2>
+          <p class="rail-hint" id="rail-hint">Click a garment to turn it round</p>
+          <ol class="looks" id="looks"></ol>
+          <p class="rail-caption" aria-hidden="true"><span id="cap-no"></span> <em id="cap-name"></em></p>
+          <p class="sr-only" id="look-hint">Turns the garment round to show its swing tag</p>
+        </div>
+      </section>
+
+      <section class="page why" id="why" aria-labelledby="why-title">
+        <div class="page-inner">
+          <p class="kicker">The details</p>
+          <h2 class="page-title" id="why-title">Why me</h2>
+          <ul class="swatches">
+            <li class="swatch swatch--navy">
+              <span class="swatch-cloth" aria-hidden="true"></span>
+              <span class="swatch-label" aria-hidden="true">Navy chalk stripe</span>
+              <p>Colleague of the Quarter, more than once, at Primark Cambridge</p>
+            </li>
+            <li class="swatch swatch--tweed">
+              <span class="swatch-cloth" aria-hidden="true"></span>
+              <span class="swatch-label" aria-hidden="true">Brown herringbone</span>
+              <p>Run my own section of a busy city centre store</p>
+            </li>
+            <li class="swatch swatch--linen">
+              <span class="swatch-cloth" aria-hidden="true"></span>
+              <span class="swatch-label" aria-hidden="true">Terracotta linen</span>
+              <p>Supervised a family textile and furnishings store, where my display change increased sales</p>
+            </li>
+            <li class="swatch swatch--check">
+              <span class="swatch-cloth" aria-hidden="true"></span>
+              <span class="swatch-label" aria-hidden="true">Windowpane check</span>
+              <p>Over two years making customers feel looked after</p>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="page contact" id="contact" aria-labelledby="contact-title">
+        <div class="card">
+          <p class="card-house">Dheeraj Kodwani</p>
+          <h2 class="card-title" id="contact-title">Appointment</h2>
+          <dl class="card-lines">
+            <div><dt>Date</dt><dd>Whenever suits you</dd></div>
+            <div><dt>Email</dt><dd><a href="mailto:dheerajkodwani21@gmail.com">dheerajkodwani21@gmail.com</a></dd></div>
+            <div><dt>LinkedIn</dt><dd><a href="https://www.linkedin.com/in/dheeraj-kodwani-5258a0223" target="_blank" rel="noopener me">Dheeraj Kodwani</a></dd></div>
+          </dl>
+          <p class="card-note">Looking forward to meeting you.</p>
+          <span class="card-stamp" aria-hidden="true">DK</span>
+        </div>
+      </section>
+    </main>
+
+    <div class="tape" aria-hidden="true">
+      <div class="tape-strip" id="tape-strip"></div>
+      <div class="tape-tip"></div>
+    </div>
+    <div class="grain" aria-hidden="true"></div>
+    <canvas class="trail" id="trail" aria-hidden="true"></canvas>
+    <div class="cursor" id="cursor" aria-hidden="true">
+      <svg viewBox="0 0 32 32" width="32" height="32">
+        <path d="M1.5 1.5L27.4 25.2Q29.6 29 25.6 27.3Z" fill="#e6e1d8" stroke="#1a120c" stroke-width="1.1" stroke-linejoin="round" />
+        <ellipse cx="25.7" cy="25.5" rx="1.9" ry="0.55" transform="rotate(43 25.7 25.5)" fill="#1a120c" />
+      </svg>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+node_modules
+dist
+# Original photos keep their EXIF and GPS data, so they never leave this machine.
+# Only the cleaned copies in public/looks are published.
+photos
+.claude

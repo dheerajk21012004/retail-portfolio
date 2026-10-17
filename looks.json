@@ -1,0 +1,122 @@
+[
+  {
+    "photo": "suit.jpg",
+    "name": "The Chocolate Double Breasted",
+    "pieces": "A double breasted chocolate suit, white shirt, dark tie, pocket square, round glasses and brown leather shoes",
+    "colour": "Chocolate wool with crisp white and warm brown leather",
+    "why": "Brown tailoring feels warmer than navy and is every bit as sharp.",
+    "alt": ""
+  },
+  {
+    "photo": "cliff-walk.jpg",
+    "name": "The Cliff Walk",
+    "pieces": "An off white lace camp collar shirt, wide rust trousers, white trainers and a black cap",
+    "colour": "Off white floral lace against rust brown",
+    "why": "One rich colour on the legs lets a quiet, textured top do the talking.",
+    "alt": ""
+  },
+  {
+    "photo": "crochet-shirt.jpg",
+    "name": "The Crochet Shirt",
+    "pieces": "An open knit crochet shirt over a black tee, layered silver chains and a black watch",
+    "colour": "Cream crochet with burgundy stripes over black",
+    "why": "A black tee underneath turns a holiday shirt into something you could wear to dinner.",
+    "alt": ""
+  },
+  {
+    "photo": "embroidered-jacket.jpg",
+    "name": "The Embroidered Jacket",
+    "pieces": "A cream embroidered jacket over a black tee, black trousers, a silver chain and round sunglasses",
+    "colour": "Cream cotton with rose embroidery over black",
+    "why": "A detailed jacket shines when everything underneath stays plain.",
+    "alt": ""
+  },
+  {
+    "photo": "patchwork.jpg",
+    "name": "The Patchwork Overshirt",
+    "pieces": "A patchwork check overshirt, black tee, wide black trousers, a cap and chunky trainers",
+    "colour": "Burgundy, rust and cream checks over all black",
+    "why": "Keep everything else black and a loud overshirt suddenly looks considered.",
+    "alt": ""
+  },
+  {
+    "photo": "burgundy-overshirt.jpg",
+    "name": "The Burgundy Overshirt",
+    "pieces": "A burgundy overshirt over a black top, printed neckerchief, light wide jeans, a matching cap and a printed tote",
+    "colour": "Burgundy with pale wash denim",
+    "why": "Matching the cap to the overshirt pulls a casual outfit together.",
+    "alt": ""
+  },
+  {
+    "photo": "brown-set.jpg",
+    "name": "The Brown Set",
+    "pieces": "A brown camp collar shirt over a white vest, matching brown trousers and white trainers",
+    "colour": "Head to toe chocolate with a little white",
+    "why": "A matching set looks sharp straight away, and white trainers keep it relaxed.",
+    "alt": ""
+  },
+  {
+    "photo": "layered-jumper.jpg",
+    "name": "The Layered Jumper",
+    "pieces": "A navy jumper over a striped shirt, stone wide trousers, a cap and retro trainers",
+    "colour": "Navy, white and stone",
+    "why": "Letting the shirt show at the collar and hem adds depth with no fuss.",
+    "alt": ""
+  },
+  {
+    "photo": "track-stripe.jpg",
+    "name": "Fleece and Track Stripes",
+    "pieces": "A brown teddy fleece, check scarf, cream cap, brown track trousers with white stripes and chunky trainers",
+    "colour": "Chocolate and cream with a camel check",
+    "why": "Sporty trousers look grown up when the colours match the rest of the outfit.",
+    "alt": ""
+  },
+  {
+    "photo": "green-cardigan.jpg",
+    "name": "The Bottle Green Cardigan",
+    "pieces": "A bottle green cardigan, white tee, silver chain, wide stone trousers, white trainers and a bunch of flowers",
+    "colour": "Deep green with stone and white",
+    "why": "Dark green is the easiest way to wear colour without shouting.",
+    "alt": ""
+  },
+  {
+    "photo": "black-patch.jpg",
+    "name": "All Black, One Patch",
+    "pieces": "A black work shirt with an embroidered chest patch and rolled sleeves, pleated black trousers and black leather shoes",
+    "colour": "Black on black",
+    "why": "When everything is black, one small detail does all the work.",
+    "alt": ""
+  },
+  {
+    "photo": "graphic-tee.jpg",
+    "name": "The Graphic Tee",
+    "pieces": "An oversized graphic tee, wide black trousers and a black canvas tote",
+    "colour": "Black with a flash of orange",
+    "why": "A boxy tee with wide trousers gives a relaxed shape that still looks deliberate.",
+    "alt": ""
+  },
+  {
+    "photo": "summer-knit.jpg",
+    "name": "The Summer Knit",
+    "pieces": "A striped knit shirt worn open over a white vest, black leather belt and ripped cream jeans",
+    "colour": "Cream and sage knit with off white denim",
+    "why": "A black belt anchors a pale outfit so it never looks washed out.",
+    "alt": ""
+  },
+  {
+    "photo": "beach-evening.jpg",
+    "name": "The Summer Knit, by the Sea",
+    "pieces": "The same striped knit and ripped cream jeans, with a white vest, black belt and white trainers",
+    "colour": "Cream and sage against grey pebbles and sea",
+    "why": "A good summer knit travels well, from the hallway mirror to the beach.",
+    "alt": "Dheeraj in a striped knit shirt and ripped cream jeans, walking along a pebble beach with an island village behind him"
+  },
+  {
+    "photo": "marina-sunset.jpg",
+    "name": "Marina at Sunset",
+    "pieces": "A monochrome knit shirt over a black tee, black shorts and dark trainers",
+    "colour": "Black and cream against a gold sky",
+    "why": "A clean silhouette still reads when the light is behind you.",
+    "alt": "Dheeraj in a short sleeve knit shirt and shorts, silhouetted against a sunset over a marina"
+  }
+]
